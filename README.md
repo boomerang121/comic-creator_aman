@@ -76,7 +76,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-- **Aman Choudhary ** - *Initial work* - [[YourUsername](https://github.com/your-username](https://github.com/boomerang121/comic-creator_aman))
+- **Aman Choudhary ** - *Initial work* -  (https://github.com/boomerang121/comic-creator_aman))
 
  
 ## License
