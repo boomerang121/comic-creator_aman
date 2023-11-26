@@ -3,7 +3,8 @@
 ## Overview
 
 Comic Creator is an innovative web application that empowers users to bring their comic narratives to life. This platform provides a seamless interface for creating a 10-panel comic strip by simply entering text descriptions. The comic is dynamically generated using a state-of-the-art text-to-image API, all with the aim of making comic creation accessible, fun, and engaging.
- 
+ ![image](https://github.com/boomerang121/comic-creator_aman/assets/73784114/ea995ad3-7049-481f-9bfb-4897c136d009)
+
 
 ## Features
 
